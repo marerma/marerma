@@ -49,13 +49,13 @@
 
 ## 🎓 Certificates
 
-<img src="https://raw.githubusercontent.com/marerma/marerma/main/certificate.png" width='500'>
+<a href="https://app.rs.school/certificate/4kp94913"><img src="https://raw.githubusercontent.com/marerma/marerma/main/certificate.png" width='500'></a>
 
 
 <br/>
 
 ## ✏️Codewars
-![Codewars](https://www.codewars.com/users/rsschool_a3892755130ea2b7/badges/large)
+![Codewars](https://www.codewars.com/users/marerma/badges/large)
 
 <br/>
 
