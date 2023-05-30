@@ -10,7 +10,7 @@
   
   📙 Spoken languages:  English, German, Russian
 
-  ✉️  You can mail me at [maria.ermolaeva@outlook.com](mailto:maria.ermolaeva@outlook.com)
+  ✉️  You can mail me at [ermolaeva.maria.v@yandex.ru](mailto:ermolaeva.maria.v@yandex.ru)
 
 
 ## 🌐 Social:
