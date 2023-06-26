@@ -50,6 +50,8 @@
 ## 🎓 Certificates
 
 <a href="https://app.rs.school/certificate/4kp94913"><img src="https://raw.githubusercontent.com/marerma/marerma/main/certificate.png" width='500'></a>
+<p></p>
+<a href="https://app.rs.school/certificate/6dhgeji0"><img src="https://raw.githubusercontent.com/marerma/marerma/main/react-cert.png" width='500'></a>
 
 
 <br/>
@@ -61,11 +63,18 @@
 
 ## 💻 Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/marerma/expense-tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=expense-tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/marerma/online-store" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=online-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center">
+<a href="https://github.com/marerma/graphiql" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=graphiql&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/marerma/expense-tracker" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=expense-tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 <br /><br /><br /><br />
 
 
-<div width="100%" align="center"><a href="https://github.com/marerma/songbird-quiz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=songbird-quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/marerma/momentum" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=momentum&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+<a href="https://github.com/marerma/songbird-quiz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=songbird-quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/marerma/online-store" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=marerma&repo=online-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 <br /><br /><br /><br />
 
 
